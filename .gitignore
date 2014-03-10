@@ -16,3 +16,7 @@
 *.exe
 *.out
 *.app
+
+# our binaries / junk folder
+ddsync 
+old
